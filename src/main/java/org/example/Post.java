@@ -1,4 +1,5 @@
 package org.example;
+
 public class Post {
     FormDate birthday;
     public String name;
